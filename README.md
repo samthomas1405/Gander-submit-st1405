@@ -21,3 +21,5 @@ This is a simple **Next.js** single-page app that answers:
 - **Tailwind CSS** (for styling)
 - **Leaflet & React-Leaflet** (for map visualization)
 
+## Time spent : 80 minutes
+
